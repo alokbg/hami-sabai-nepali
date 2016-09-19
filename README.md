@@ -1,2 +1,3 @@
-# hami-sabai-nepali
-yo repository ma nepali haru lai kaam lagne api haru chhan
+# date-converter
+
+This API will help us convert AD to BS and vice-versa!
